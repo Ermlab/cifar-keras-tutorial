@@ -1,5 +1,9 @@
 # CIFAR-10 IMAGE CLASSIFICATION WITH KERAS CONVOLUTIONAL NEURAL NETWORK TUTORIAL
 
+
+[Read blog post with all the details about the model](https://ermlab.com/en/blog/nlp/cifar-10-classification-using-keras-tutorial/)
+
+
 ## What is Keras?
 
 "Keras is an open source neural network library written in Python and capable of running on top of either [TensorFlow](https://www.tensorflow.org/), [CNTK](https://github.com/Microsoft/CNTK) or [Theano](http://deeplearning.net/software/theano/).
@@ -451,6 +455,4 @@ Confusion matrix result:
 7. Open Source on GitHub
 
 
-## Grab the code or run project in online IDE
-* You can [download code from GitHub](https://github.com/simongeek/KerasT)
-* You can [run the project in your browser](https://plon.io/explore/keras-cifar-10-classification/m5UMC4nOeCFLM6yXN)
+
